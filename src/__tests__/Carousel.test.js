@@ -1,5 +1,5 @@
-import { expect, test } from "@jest/globals"
-import { render } from "@testing-library/react"
+import { expect, test } from "@jest/globals";
+import { render } from "@testing-library/react";
 import Carousel from "../Carousel";
 
 test("lets users click on thumbnails to make them the hero", async () => {
